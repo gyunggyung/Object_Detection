@@ -1,6 +1,6 @@
 # Object detection reference training scripts
 
-Use [this](https://github.com/gyunggyung/Object_Detection/blob/main/Object%20Detection.ipynb)
+It's just a code transfer from the reference. Use [this](https://github.com/gyunggyung/Object_Detection/blob/main/Object%20Detection.ipynb). 
 
 ![](img/1.png)
 
